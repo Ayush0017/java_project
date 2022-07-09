@@ -1,0 +1,22 @@
+SMAP
+recruiterlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 recruiterlist.jsp
+recruiterlist.jsp
++ 1 admin_header.jsp
+admin_header.jsp
+*L
+1:52
+1#1,38:53
+2#0,8:90
+10,2:99
+11,16:101
+27,5:118
+31,2:123
+33,6:125,3
+39,2:143
+41:145,3
+42,29:148
+*E

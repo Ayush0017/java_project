@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dto/Vacancy.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dao/CandidateDao.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidate_apply_vacancy.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dao/AppliedVacancyDao.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_home.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidate_reg_db.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dao/RecruiterDao.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/adminapproverecruiter.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_update_status.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_login.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidate_header.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dto/Candidate.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidate_reg.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/vacancystatus.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/adminhome.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/admin_header.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidatelist.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiterlogindb.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dto/AppliedVacancy.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiterlist.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dao/AdminDao.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/index_header.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dao/VacancyDao.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/index.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/adminlogindb.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_logout.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidatelogindb.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/addRecruiter.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_add_vacancy.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_header.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/view_vacancy.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/dto/Recruiter.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidate_home.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/src/java/myconn/GetConnection.java</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidate_login.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/candidate_logout.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_reg.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/admin_login.jsp</file>
+            <file>file:/C:/Users/user/Documents/Zoom/advance_java78_mng/Adv_78mng_online_faculty/web/recruiter_add_vacancy_db.jsp</file>
+        </group>
+    </open-files>
+</project-private>
